@@ -30,3 +30,29 @@ Conclusion
 This project helped me develop practical SQL skills and understand how to clean and prepare raw data for reliable data analysis.
 
 naveen
+
+
+-- -- Explorator data analysis (EDA)
+
+SQL Exploratory Data Analysis (EDA)
+About the Project
+
+In this project, I performed Exploratory Data Analysis (EDA) on a dataset using SQL. The goal was to understand the data and find useful information from it.
+
+Tools Used
+SQL
+MySQL
+Dataset: [Your Dataset Name]
+What I Did
+Explored the dataset.
+Checked missing and duplicate values.
+Used SQL queries to analyze the data.
+Found patterns and trends.
+Answered questions using SQL.
+Key Findings
+Learned more about the dataset.
+Found useful patterns in the data.
+Gained insights using SQL queries.
+Conclusion
+
+This project helped me improve my SQL skills and understand how to analyze data using SQL.
